@@ -1,0 +1,3 @@
+[submodule "shared/cute"]
+	path = shared/cute
+	url = git@github.com:samuelhm/cute_console.git
